@@ -52,7 +52,7 @@ body {
     position: relative;
     height: 310vh;
     padding: 0px;
-    border: 1.5px solid black; /* Border around the entire content */
+    border: 1.5px solid black; 
 }
 
 /* Partie 1 */
@@ -150,14 +150,14 @@ body {
 
 .session {
     background-color: rgb(255, 238, 244);
-    border: 2px solid #FF69B4; /* Pink border */
-    color: rgb(83, 166, 238); /* Text color */
+    border: 2px solid #FF69B4; 
+    color: rgb(83, 166, 238); 
     font-size: 16px;
     padding: 10px 20px;
     margin-bottom: 10px;
     border-radius: 8px;
     cursor: pointer;
-    width: 120px; /* Fixed width for consistent button size */
+    width: 120px; 
     text-align: left;
 }
 
@@ -211,8 +211,6 @@ body {
 .cell:first-child {
     font-weight: bold;
     color: #ff69b4;
-    text-align: left;
-    padding-left: 10px;
     background-color: #ffe6f2;
 }
 .o {
