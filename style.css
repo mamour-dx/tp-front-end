@@ -43,8 +43,8 @@ body {
 }
 
 .page {
-    width: 80%;
-    max-width: 800px;
+    width: 100%;
+    max-width: 150vh;
     margin: 20px auto;
     display: flex;
     flex-direction: column;
